@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Number Wizard
+  m_Text: I was always right!
 --- !u!222 &510329606
 CanvasRenderer:
   m_ObjectHideFlags: 0
